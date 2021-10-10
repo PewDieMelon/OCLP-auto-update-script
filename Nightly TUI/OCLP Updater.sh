@@ -1,6 +1,6 @@
 ## Updater for OCLP TUI Nightly
 ## Needs to be set up to auto run
-cd /Users/dennis/.tmp
+cd $TMPDIR
 wget https://nightly.link/dortania/OpenCore-Legacy-Patcher/workflows/build-app/main/OpenCore-Patcher-TUI.app.zip
 unzip -o OpenCore-Patcher-TUI.app.zip
 unzip -o OpenCore-Patcher-TUI.app.zip
