@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ## Updater for OCLP TUI Nightly
 ## Needs to be set up to auto run
 cd $TMPDIR
